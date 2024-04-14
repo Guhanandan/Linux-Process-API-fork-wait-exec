@@ -44,7 +44,7 @@ int main(void)
 ```
 
 
-##OUTPUT
+## OUTPUT
 ![310737928-c4b360a5-d4f2-4290-914f-64f17f16c105](https://github.com/Guhanandan/Linux-Process-API-fork-wait-exec/assets/100425381/e9707637-6b76-4d5e-b3ee-4bf0a4aff56a)
 
 
@@ -78,7 +78,7 @@ int main() {
 
 ```
 
-##OUTPUT
+## OUTPUT
 
 ![310737942-e3f3cb94-05c3-4e20-abe3-8d9d67826265](https://github.com/Guhanandan/Linux-Process-API-fork-wait-exec/assets/100425381/58ab89ff-8e7b-4545-8deb-a642430fd7c7)
 
@@ -117,7 +117,7 @@ int main() {
 }
 ```
 
-##OUTPUT
+## OUTPUT
 ![310737958-33a2ae89-7e9d-478e-b9ad-1b6d4363d1ce](https://github.com/Guhanandan/Linux-Process-API-fork-wait-exec/assets/100425381/f29b6dbf-a30a-4f10-95fc-30edbf90bb1a)
 
 
